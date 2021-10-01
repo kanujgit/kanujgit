@@ -2,7 +2,6 @@
 <h3 align="center">A passionate Andorid developer from India</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kanujgit" alt="kanujgit" /> </p>
 
-- ⚡ Fun fact **Chai over coffee**
 
 <p align="left"><img src="https://devicons.github.io/devicon/devicon.git/icons/android/android-original-wordmark.svg" alt="android" width="20" height="20"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original-wordmark.svg" alt="java" width="20" height="20"/></p><p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=kanujgit&show_icons=true" alt="kanujgit" /> </p>
 
