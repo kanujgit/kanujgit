@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anuj</h1>
 <h3 align="center">A passionate Andorid developer from India</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kanujgit" alt="kanujgit" /> </p>
-
 
 
 
